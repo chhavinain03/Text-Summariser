@@ -1,0 +1,5 @@
+heapq-max==0.21
+spacy==2.2.4
+spacy-loggers==1.0.2
+streamlit==1.9.0
+PyPDF2
