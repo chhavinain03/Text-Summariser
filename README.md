@@ -16,11 +16,11 @@ python3 -m venv venv
 source venv/bin/activate
 
 
-3. Install the required packages: 
-Install all the required dependencies like flask, langchain etc.
+3. Install the required packages:
+Install all the required dependencies like flask , langchain etc.
 
 4. Set up environment variables:
-In the your_module.py edit your gemini API key and use the application.
+In the your_module.py edit oyur gemini API key and use the application.
 
 
 
@@ -35,9 +35,14 @@ Open your web browser and run into the local host http://127.0.0.1:5000.
 
 3. Upload a PDF:
 Click on the choose file to select a pdf and upload it.
+![image](https://github.com/dishabarmola/Text-Summariser/assets/120310851/54c5ed87-05a5-4be0-9d47-687dc0559a08)
 
-4. Get the summary:
+
+5. Get the summary:
 The application will process the pdf and generate  a concise summary that will show on the web interface.
+![image](https://github.com/dishabarmola/Text-Summariser/assets/120310851/a43cc387-d253-4e1a-a533-6578ea890407)
+
+
 
 
 
