@@ -6,7 +6,7 @@ from langchain_community.document_loaders import PyPDFLoader
 from langchain_google_genai import ChatGoogleGenerativeAI
 
 def summarize(file):
-    os.environ['GOOGLE_API_KEY'] = 'AIzaSyDGkSLsqjwLb5QNwl-U7hz0UHrnHGvMyS4'  # Remember to replace with your actual API key
+    os.environ['GOOGLE_API_KEY'] = 'AIzaSyDGkSLsqjwLb5QNwl-U7hz0UHrnHGvMyS4'  
 
     # Load the PDF document
     loader = PyPDFLoader(file)
